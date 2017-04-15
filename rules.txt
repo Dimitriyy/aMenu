@@ -1,27 +1,42 @@
-- General Rules
-
-* Don't attempt to exploit the server or act with malicious intent towards it.
-* Don't randomly kill someone. (Known as RDM - Random Death Match)
-* Don't harass or annoy other players. This includes being racist or purposefully trying to offend others.
-* Don't spam. This includes voice chat, OOC chat, adverts, or any other methods of communication.
-* Don't prop minge. This includes prop climb, surf, kill, block, bridge, push, trap or spam.
-* Don't create offensive or inappropriate text signs.
-* Don't use an inappropriate RP name.
-* Leave the admins to do their jobs, if they're busy then be patient and wait for them to finish
-* Scamming during vendor transactions or any roleplay transactions is not allowed whatsoever.
-* No CP helping. You must be a government class or a bodyguard hired by the Mayor to assist CP.
-* Overall, use common sense and have fun.
+* Не пытайтесь использовать сервер или действовать со злым умыслом к нему.
+* Не случайно убить кого-то. (Известный как РДМ - матч случайные смерти)
+* Не запугивать или раздражать других игроков. Это включает в себя расистом или целенаправленно пытаетесь оскорбить других.
+* Не спам. Это включает в себя голосовой чат, ООЦ чат, объявления, или любые другие способы связи.
+* Не проп минге. Это включает в себя опору лазить, серфить, убивать, блок, мост, толчок, ловушка или спам.
+* Не создавать оскорбительные или неприличные надписи.
+* Не используйте неподходящие имя РП.
+* Оставьте админам делать свою работу, если они заняты, то набраться терпения и ждать их, чтобы закончить
+* Мошенничество при сделках с поставщиком или любая ролевая игра операциях не допускается вообще.
+* Никаких Ср помогает. Вы должны быть класса или телохранителя нанял мэр, чтобы помочь Ср.
+* В целом, использовать здравый смысл и получать удовольствие.
 
 
-- Building Rules
-
-* While building, put up a sign that says "Building" to let others know you are not roleplaying.
-* Do not interfere with people that have a "Building" sign.
-* A player must be able to enter and exit your building using a keypad cracker or a lockpick.
-* Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly)
-* Keypads must be connected to a working fading door.
-* Keypads must have a hold length of 5 seconds for fading doors. (With a 0 initial delay)
-* Do not create tiny cracks in your base that raiders cannot see.(Headshot and footshot traps)
-* No disorienting advantages such as black rooms, fully invisible props, or world glow effects.
-* Do not store entities on inaccessible rooftops or inaccessible areas in general.
-* Sky bases are not allowed.
+ 
+Основные Правила.
+ИГРОКИ: ОСНОВНЫЕ ПРАВИЛА. 
+1.1. Запрещено оскорблять кого либо если того не требует РП Ситуация. 
+1.2. Запрещено Использовать знания, которые ваш персонаж не мог получить. 
+1.3. Запрещено Срывать Ивенты и другие события. 
+1.4. НОН РП в любом проявлении Запрещено. 
+1.5. Запрещено тролить/врать администрации.
+1.6. Запрещено игроку тролить других игроков.
+1.7. Запрещено выдавать себя за Администратора Проекта.
+1.8. Оскорбление национальности другого игрока карается баном от 3 часов до пермача.
+1.9. Оскорбление родственником другого игрока карается баном от 15 минут до 7 дней
+_____________________________________________________________________________________________________________________АДМИНИСТРАЦИЯ: ОБЯЗАНОСТИ. 
+2.1 Следить за порядком на сервере. 
+2.2 Желательно помогать КМД в улучшении Казарм. 
+2.3 Желательно помогать другим админам и випам в осуществлении ивентов. 
+__________________________________________________________________________________________________________________ 
+АДМИНИСТРАЦИЯ: ЗАПРЕТЫ: 
+3.1. Начинать Ивенты без ведома Надзирателя или одного из овнеров. 
+3.2. Использовать Ноу Клип и Невидимость для выхода из РП Ситуации. 
+3.3. Использовать Ноу Клип без Невидимости в РП профе, по скольку ваши полеты могут помешать РП Ситуации. 
+3.4 Использовать Оружие Массового Поражения Не в целях Тренировки или Вне Ивентов. 
+3.5 Выдача Оружия Подопечному легиону или отряду запрещено. 
+3.6 Бан или Кик без причины будет жестоко наказыватся (от выговора или кика до снятия с админки и бана) 
+__________________________________________________________________________________________________________________ 
+ПОНЯТИЯ: 
+РП - РолПлэй - Вживление в Роль. 
+Ноу Клип - полет, отключение физических свойств у игрока (полет сквозь стены). 
+NPC - н-п-ц или н-пи-си - Неиграбельные Персонажи.
